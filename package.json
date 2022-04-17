@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "name": "bookshop-online-project",
+  "version": "1.0.0",
+  "description": "this is bookshop app online",
+  "main": "src/index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon --inspect src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bookshop",
+    "online"
+  ],
+  "author": "hai tran",
+  "license": "ISC"
+}
